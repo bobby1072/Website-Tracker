@@ -5,3 +5,8 @@ NOTE:
 
 This application connects to my MongoDB when a URL is entered and when the 'show all locations' button is pressed. For the program to work you can comment out or delete all lines where data is either commited to or pulled from MongoDB. If you want to use the MongoDB features you can change the code to connect to yours instead and structure your database the same as mine.
 
+Only the python files need to be downloaded.
+
+The pymongo, folium and requests librarys will need to be installed.
+
+Run the application from the 'main.pyw' file.
